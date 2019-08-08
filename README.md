@@ -9,7 +9,7 @@ Download packages.
 
 ```
 $ go get -u github.com/satoshi03/hello-grpc-go/server
-$ go get -u github.com/satoshi03/hello-grpc-go/clietn
+$ go get -u github.com/satoshi03/hello-grpc-go/client
 ```
 
 ## Run
